@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head >
+    <meta charset="utf-8">
+    <title>😊😊BabyBala</title>
+</head>
+<body style="background-color: #e48fc6;">
+    <table>
+        <tr>
+            <td>  <img src="image/e2bca6fa7481ddd62edab8eafecda5b1.jpg" alt="no preview"></td>
+            <td><h1>Welcome <br> to <br><b>Baby bala's</b> web page</h1>
+                 <hr size="3"></td>
+        </tr>
+    </table>
+  
+    
+    <a href="https://www.irctc.co.in/nget/booking/train-list">loyola web</a>
+    
+<ol>
+    <li><a href="contact.html">Contact Infromation</a></li>
+<li><a href="skills.html">Skills</a></li>
+</ol>
+<hr>
+<h2>Educational Qualification</h2>
+    <table >
+        <tr>
+            <td><h4>year</h4></td>
+            <td><h4>institution</H4></td>
+            <td><h4>Percentage</H4></td>
+        </tr><br>
+        <tr>
+            <td>2015</td>
+            <td>Bala Krishna Metric higher secondary School, Vadakkankulam, Tirunelveli </td>
+            <td>77.6%</td>
+        </tr>
+        <tr>
+            <td>2017 </td>
+            <td>Bala Krishna Metric higher secondary School, Vadakkankulam, Tirunelveli </td>
+            <td>76%</td>
+        </tr>
+        <tr>
+            <TD>2017-2020</TD>
+            <TD>Loyola College, Chennai</TD>
+            <TD>B.Sc. Mathematics with 57% </TD>
+        </tr>
+        <TR>
+            <TD>2020-2022</TD>
+            <td>Loyola College, Chennai</td>
+            <td>M.S.W (medical and psychiatry) with 64% </td>
+        </TR>
+    </table>
+</body>
+
+
+
+
+
+</html>
